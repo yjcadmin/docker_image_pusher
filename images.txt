@@ -1,2 +1,2 @@
-nginx
+nginx:latest
 docker.io/istio/pilot:1.20.6
