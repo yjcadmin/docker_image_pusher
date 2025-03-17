@@ -1,2 +1,1 @@
-jimmidyson/configmap-reload:v0.8.0
-prom/prometheus:v2.41.0
+ghcr.io/open-telemetry/opentelemetry-operator/opentelemetry-operator:0.113.0
