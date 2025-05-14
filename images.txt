@@ -1,1 +1,1 @@
-docker.io/jaegertracing/all-in-one:1.46
+container-registry.oracle.com/mysql/community-operator:8.0.42-2.0.18
