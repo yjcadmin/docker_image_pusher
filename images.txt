@@ -1,1 +1,1 @@
-golang:1.24
+gcr.io/distroless/static:nonroot
