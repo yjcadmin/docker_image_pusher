@@ -1,1 +1,1 @@
-container-registry.oracle.com/mysql/community-operator:8.0.42-2.0.18
+golang:1.24
