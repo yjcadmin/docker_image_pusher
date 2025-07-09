@@ -1,1 +1,1 @@
-gcr.io/distroless/static:nonroot
+redis:7.2.4
