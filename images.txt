@@ -1,1 +1,1 @@
-fireboomapi/fireboom_server:latest 
+index.docker.io/appsmith/appsmith-ee
