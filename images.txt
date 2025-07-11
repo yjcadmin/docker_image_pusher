@@ -1,3 +1,4 @@
+vaultwarden/server:latest
 docker.1ms.run/fs185085781/webos
 mysql:8.3.0
 cooderl/wewe-rss:latest
