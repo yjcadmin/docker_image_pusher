@@ -1,1 +1,1 @@
-btpanel/baota:latest
+kuklinistvan/docker-anki-sync-server
