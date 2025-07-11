@@ -1,1 +1,3 @@
-ghcr.io/yangchuansheng/anki-sync-server:latest
+eqalpha/keydb:6.3.3
+percona/percona-server-mongodb:4.4
+heyform/community-edition:latest
