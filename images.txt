@@ -1,1 +1,1 @@
-matb/docker-anki-sync-server:latest
+ghcr.io/yangchuansheng/anki-sync-server:latest
