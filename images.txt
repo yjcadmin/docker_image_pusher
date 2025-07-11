@@ -1,5 +1,6 @@
+ghcr.io/umami-software/umami:postgresql-latest
+postgres:15-alpine
 vaultwarden/server:latest
-docker.1ms.run/fs185085781/webos
 mysql:8.3.0
 cooderl/wewe-rss:latest
 ricwang/docker-wechat:latest
