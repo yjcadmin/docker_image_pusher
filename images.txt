@@ -1,1 +1,1 @@
-surveyking/surveyking
+postgres:15-alpine
