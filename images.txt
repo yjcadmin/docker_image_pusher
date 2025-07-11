@@ -1,1 +1,1 @@
-kuklinistvan/docker-anki-sync-server
+matb/docker-anki-sync-server:latest
