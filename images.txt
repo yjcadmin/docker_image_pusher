@@ -1,1 +1,1 @@
-phpmyadmin/phpmyadmin
+byaidu/pdf2zh
