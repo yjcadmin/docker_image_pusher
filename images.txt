@@ -1,1 +1,1 @@
-registry:3
+klausmeyer/docker-registry-browser
