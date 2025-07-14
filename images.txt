@@ -1,1 +1,1 @@
-itzg/minecraft-server
+registry:v3
