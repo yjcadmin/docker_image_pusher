@@ -1,1 +1,1 @@
-registry:v3
+registry:3
