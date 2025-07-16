@@ -1,1 +1,1 @@
-rustdesk-builder
+rustdesk/rustdesk-server
