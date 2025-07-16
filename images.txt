@@ -1,1 +1,1 @@
-klausmeyer/docker-registry-browser
+memcached
