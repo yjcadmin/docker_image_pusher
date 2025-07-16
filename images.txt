@@ -1,1 +1,1 @@
-idobry/chartmuseumui:latest
+tomcat:9.0
