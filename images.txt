@@ -1,1 +1,1 @@
-memcached
+idobry/chartmuseumui:latest
