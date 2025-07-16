@@ -1,1 +1,1 @@
-radhifadlillah/shiori
+ghcr.io/usememos/memos:latest
