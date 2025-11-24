@@ -1,2 +1,6 @@
-redis:7.4.2
- 
+sonicorg/sonic-server-eureka:v2.7.2
+sonicorg/sonic-server-gateway:v2.7.2
+sonicorg/sonic-server-controller:v2.7.2
+sonicorg/sonic-server-folder:v2.7.2
+sonicorg/sonic-client-web:v2.7.2
+mysql:5.7
