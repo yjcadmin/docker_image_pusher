@@ -1,2 +1,2 @@
-actiontech/dble:3.22.07.0
-mysql:8.0.28
+gcr.io/distroless/static:nonroot
+golang:1.24
