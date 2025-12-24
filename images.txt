@@ -1,2 +1,2 @@
-node:20.0.0-alpine
-node:20.0.0
+node:20.9.0-alpine
+node:20.9.0
