@@ -1,1 +1,2 @@
-golang:1.24.6
+node:20.0.0-alpine
+node:20.0.0
