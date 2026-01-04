@@ -1,1 +1,1 @@
-mysql:8.0.29-debian-11-r9
+bitnami/mysql/mysql:8.0.29-debian-11-r9
