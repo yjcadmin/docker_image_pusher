@@ -1,1 +1,1 @@
-bitnami/mysql/mysql:8.0.29-debian-11-r9
+docker.elastic.co/elasticsearch/elasticsearch:9.2.4
