@@ -1,3 +1,2 @@
-docker.elastic.co/kibana/kibana:9.2.4
-docker.elastic.co/logstash/logstash:9.2.4
-docker.elastic.co/filebeat/filebeat:9.2.4
+docker.io/bitnami/zookeeper:3.8.0-debian-11-r74
+docker.io/bitnami/kafka:3.2.0-debian-11-r12
