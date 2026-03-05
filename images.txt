@@ -1,1 +1,1 @@
-logstash:8.17.0
+openclaw/openclaw:latest
