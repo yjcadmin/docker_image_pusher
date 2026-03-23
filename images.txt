@@ -1,1 +1,1 @@
-lvxj11/erpnext:v15
+node:22-alpine
