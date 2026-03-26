@@ -1,1 +1,5 @@
-kutt/kutt:latest
+mysql:8.0
+redis:8.4
+minio/minio:RELEASE.2021-06-17T00-10-46Z
+nginx:latest
+eclipse-temurin:8-jdk
